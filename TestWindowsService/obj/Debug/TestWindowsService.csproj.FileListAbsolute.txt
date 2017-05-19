@@ -1,0 +1,8 @@
+C:\Code\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe.config
+C:\Code\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csprojResolveAssemblyReference.cache
+C:\Code\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+C:\Code\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.pdb
+C:\Code\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.exe
+C:\Code\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.pdb
+C:\Code\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.ProjectInstaller.resources
+C:\Code\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.GenerateResource.Cache

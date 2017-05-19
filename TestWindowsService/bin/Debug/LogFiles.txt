@@ -1,0 +1,18 @@
+7/29/2015 5:14:30 PM: Test windows service has started
+7/29/2015 5:15:00 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:15:30 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:15:59 PM: Test windows service has stopped
+7/29/2015 5:16:57 PM: Test windows service has started
+7/29/2015 5:17:27 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:17:57 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:18:27 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:18:57 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:19:27 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:19:57 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:20:27 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:20:57 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:21:27 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:21:57 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:22:27 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:22:57 PM: Timer ticked and some job has been done successfully
+7/29/2015 5:23:06 PM: Test windows service has stopped
